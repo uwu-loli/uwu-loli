@@ -423,19 +423,6 @@ const principles = {
 
 ---
 
-## Контакты и Ссылки
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-uwu--loli-181717?style=for-the-badge&logo=github)](https://github.com/uwu-loli)
-
-*Этот аккаунт содержит архивные образовательные и экспериментальные проекты.*  
-*Активная разработка продолжается на отдельном production аккаунте.*
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -446,7 +433,5 @@ const principles = {
 │                                         │
 └─────────────────────────────────────────┘
 ```
-
-**Архивный • Тестовый • Экспериментальный**
 
 </div>
